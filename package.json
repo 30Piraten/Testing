@@ -1,0 +1,19 @@
+{
+  "name": "unit-testing",
+  "version": "1.0.0",
+  "description": "Unit testing with Jest",
+  "main": "script.test.js",
+  "scripts": {
+    "test": "jest --coverage --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/30Piraten"
+  },
+  "author": "Rautenberg",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.4.0",
+    "jest": "^29.5.0"
+  }
+}
