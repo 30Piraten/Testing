@@ -4,7 +4,7 @@
   "description": "Unit testing with Jest",
   "main": "script.test.js",
   "scripts": {
-    "test": "jest --coverage --verbose"
+    "test": "jest --verbose --coverage --watch"
   },
   "repository": {
     "type": "git",
